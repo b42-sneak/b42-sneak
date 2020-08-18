@@ -54,6 +54,8 @@
        id="rect3211" />
   </defs>
   <sodipodi:namedview
+     inkscape:guide-bbox="true"
+     showguides="true"
      id="base"
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -61,10 +63,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.49497475"
-     inkscape:cx="615.79741"
-     inkscape:cy="587.30829"
+     inkscape:cx="636.74382"
+     inkscape:cy="648.68858"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer2"
      inkscape:document-rotation="0"
      showgrid="false"
      inkscape:window-width="2507"
@@ -81,10 +83,38 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
+  <g
+     inkscape:label="Background 1"
+     id="layer3"
+     inkscape:groupmode="layer">
+    <rect
+       rx="0"
+       ry="0"
+       y="0"
+       x="0"
+       height="1000"
+       width="1000"
+       id="rect1765-5"
+       style="fill:#10e682;fill-opacity:1;stroke-width:0.128862" />
+  </g>
+  <g
+     inkscape:label="Background"
+     id="layer2"
+     inkscape:groupmode="layer">
+    <rect
+       style="fill:#0095ff;fill-opacity:1;stroke-width:35;stroke:none;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect1765"
+       width="810.83765"
+       height="810.83765"
+       x="94.581184"
+       y="94.581184"
+       ry="127.67171"
+       rx="0" />
+  </g>
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
@@ -101,21 +131,21 @@
     <text
        y="0"
        x="374.74002"
-       transform="translate(-430.48968,-276.62999)"
+       transform="matrix(0.76769663,0,0,0.76769663,-230.54907,-70.58521)"
        xml:space="preserve"
        id="text3215"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:266.667px;line-height:1.25;font-family:'Carter One';-inkscape-font-specification:'Carter One';letter-spacing:75px;word-spacing:0px;white-space:pre;shape-inside:url(#rect3217);fill:#000000;fill-opacity:1;stroke:none;"><tspan
-         x="624.2676"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:266.667px;line-height:1.25;font-family:'Carter One';-inkscape-font-specification:'Carter One';letter-spacing:136.104px;word-spacing:0px;white-space:pre;shape-inside:url(#rect3217);fill:#73e610;fill-opacity:1;stroke:none;"><tspan
+         x="563.1636"
          y="505.48238"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:266.667px;font-family:'Carter One';-inkscape-font-specification:'Carter One';text-align:center;direction:ltr;text-anchor:middle;shape-inside:url(#rect3217)">b42
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:266.667px;font-family:'Carter One';-inkscape-font-specification:'Carter One';text-align:center;direction:ltr;text-anchor:middle;shape-inside:url(#rect3217);fill:#73e610;fill-opacity:1">b42
 </tspan></tspan><tspan
-         x="665.5437"
+         x="604.43969"
          y="838.81612"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:266.667px;font-family:'Carter One';-inkscape-font-specification:'Carter One';text-align:center;direction:ltr;text-anchor:middle;shape-inside:url(#rect3217)">-sn
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:266.667px;font-family:'Carter One';-inkscape-font-specification:'Carter One';text-align:center;direction:ltr;text-anchor:middle;shape-inside:url(#rect3217);fill:#73e610;fill-opacity:1">-sn
 </tspan></tspan><tspan
-         x="632.53584"
+         x="571.43184"
          y="1172.1499"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:266.667px;font-family:'Carter One';-inkscape-font-specification:'Carter One';text-align:center;direction:ltr;text-anchor:middle;shape-inside:url(#rect3217)">eak</tspan></tspan></text>
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:266.667px;font-family:'Carter One';-inkscape-font-specification:'Carter One';text-align:center;direction:ltr;text-anchor:middle;shape-inside:url(#rect3217);fill:#73e610;fill-opacity:1">eak</tspan></tspan></text>
     <text
        style="fill:black;fill-opacity:1;stroke:none;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect863);"
        id="text861"
