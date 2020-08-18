@@ -7,34 +7,72 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   sodipodi:docname="square_logo.svg"
-   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
-   width="1000px"
-   height="1000px"
-   viewBox="0 0 1000 1000"
+   id="SVGRoot"
    version="1.1"
-   id="SVGRoot">
+   viewBox="0 0 1000 1000"
+   height="1000px"
+   width="1000px"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   sodipodi:docname="square_logo.svg">
   <defs
-     id="defs2599" />
+     id="defs2599">
+    <rect
+       id="rect875"
+       height="215.71777"
+       width="55.107422"
+       y="336.54768"
+       x="850.41504" />
+    <rect
+       id="rect869"
+       height="86.734968"
+       width="178.86509"
+       y="513.58154"
+       x="619.29967" />
+    <rect
+       id="rect863"
+       height="416.12828"
+       width="163.29311"
+       y="338.79482"
+       x="104.16225" />
+    <rect
+       id="rect857"
+       height="306.2868"
+       width="529.25642"
+       y="508.32328"
+       x="312.91643" />
+    <rect
+       x="199.68192"
+       y="280.72963"
+       width="1490.708"
+       height="1068.3943"
+       id="rect3217" />
+    <rect
+       x="122.48744"
+       y="217.96875"
+       width="594.6875"
+       height="404.33454"
+       id="rect3211" />
+  </defs>
   <sodipodi:namedview
-     inkscape:window-maximized="1"
-     inkscape:window-y="28"
-     inkscape:window-x="1973"
-     inkscape:window-height="1384"
-     inkscape:window-width="2507"
-     showgrid="false"
-     inkscape:document-rotation="0"
-     inkscape:current-layer="layer1"
-     inkscape:document-units="px"
-     inkscape:cy="560"
-     inkscape:cx="400"
-     inkscape:zoom="0.35"
-     inkscape:pageshadow="2"
-     inkscape:pageopacity="0.0"
-     borderopacity="1.0"
-     bordercolor="#666666"
+     id="base"
      pagecolor="#ffffff"
-     id="base" />
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="615.79741"
+     inkscape:cy="587.30829"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:window-width="2507"
+     inkscape:window-height="1384"
+     inkscape:window-x="1973"
+     inkscape:window-y="28"
+     inkscape:window-maximized="1"
+     inkscape:snap-text-baseline="false" />
   <metadata
      id="metadata2602">
     <rdf:RDF>
@@ -43,12 +81,52 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <g
-     id="layer1"
+     inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     inkscape:label="Layer 1" />
+     id="layer1">
+    <text
+       xml:space="preserve"
+       id="text3209"
+       style="font-style:normal;font-weight:normal;font-size:666.667px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect3211);fill:#000000;fill-opacity:1;stroke:none;"><tspan
+         style="visibility:hidden"
+         x="122.48828"
+         y="1228.8865"><tspan
+           dx="0 56.054543 81.249794"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:133.333px;font-family:'carter one';-inkscape-font-specification:'carter one'">sad</tspan></tspan></text>
+    <text
+       y="0"
+       x="374.74002"
+       transform="translate(-430.48968,-276.62999)"
+       xml:space="preserve"
+       id="text3215"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:266.667px;line-height:1.25;font-family:'Carter One';-inkscape-font-specification:'Carter One';letter-spacing:75px;word-spacing:0px;white-space:pre;shape-inside:url(#rect3217);fill:#000000;fill-opacity:1;stroke:none;"><tspan
+         x="624.2676"
+         y="505.48238"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:266.667px;font-family:'Carter One';-inkscape-font-specification:'Carter One';text-align:center;direction:ltr;text-anchor:middle;shape-inside:url(#rect3217)">b42
+</tspan></tspan><tspan
+         x="665.5437"
+         y="838.81612"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:266.667px;font-family:'Carter One';-inkscape-font-specification:'Carter One';text-align:center;direction:ltr;text-anchor:middle;shape-inside:url(#rect3217)">-sn
+</tspan></tspan><tspan
+         x="632.53584"
+         y="1172.1499"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:266.667px;font-family:'Carter One';-inkscape-font-specification:'Carter One';text-align:center;direction:ltr;text-anchor:middle;shape-inside:url(#rect3217)">eak</tspan></tspan></text>
+    <text
+       style="fill:black;fill-opacity:1;stroke:none;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect863);"
+       id="text861"
+       xml:space="preserve" />
+    <text
+       style="fill:black;fill-opacity:1;stroke:none;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect869);"
+       id="text867"
+       xml:space="preserve" />
+    <text
+       style="fill:black;fill-opacity:1;stroke:none;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect875);"
+       id="text873"
+       xml:space="preserve" />
+  </g>
 </svg>
