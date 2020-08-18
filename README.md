@@ -7,9 +7,9 @@ But SFW or not, I believe that all software should be Free and Open Source Softw
 
 Find me here:
 
-- [u/b42-sneak on Reddit](https://www.reddit.com/user/b42-sneak)
-- [@b42_sneak on Twitter](https://twitter.com/b42_sneak)
-- [@b42-sneak on GitHub](https://github.com/b42-sneak)
+- [u/b42-sneak on Reddit](https://www.reddit.com/user/b42-sneak) [NSFW]
+- [@b42_sneak on Twitter](https://twitter.com/b42_sneak) [NSFW]
+- [@b42-sneak on GitHub](https://github.com/b42-sneak) [NSFW]
 - [PH: users/b42-sneak](https://www.pornhub.com/users/b42-sneak) [NSFW]
 
 Happy coding!
